@@ -4,3 +4,4 @@ __pycache__/
 *.db
 faiss.index
 .venv/
+.DS_Store
