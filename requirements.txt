@@ -9,3 +9,4 @@ python-dotenv
 python-docx
 pydantic
 requests
+faiss-cpu
